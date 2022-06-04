@@ -5,3 +5,5 @@ Find 10 mines
 Move and select with the joystick
 
 A button to toggle flag
+
+https://github.com/sorrowe/EMF2022-Minesweeper
